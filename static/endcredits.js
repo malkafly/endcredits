@@ -1,5 +1,5 @@
 /*
- * jQuery titleSequence Plugin
+ * jQuery endcredits Plugin
  *
  * Copyright (c) 2014 Daniel Malkafly <malk@epichail.com>
  * Dual licensed under the MIT or GPL Version 2 licenses or later.
