@@ -1,4 +1,4 @@
-End Credits in jQuery
+End Credits in jQuery - An Concept to make impressions!
 ==========
 
 Movie end credits for your website!
