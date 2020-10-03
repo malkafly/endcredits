@@ -1,5 +1,5 @@
 Movie like End Credits for your Websites with jQuery
-=================================
+====================================================
 
 Movie end credits for your website!
 
