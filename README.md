@@ -3,8 +3,8 @@ Custom End Credits in jQuery
 Suprisingly Great!
 
 
-Movie end credits for your website!
+Movie and credits for your website!
 
-Don't you think your site deserves an ending like in the movies? Show all your staff, your thanks, your logos and partners with this component!
+Don't you think your website deserves an ending that  of movies? Show all your staff, your logos and your partners with this kind of amazing component!
 
 DEMO @ http://malkafly.github.io/endcredits/
