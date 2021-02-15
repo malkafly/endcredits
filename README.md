@@ -1,6 +1,7 @@
 Custom End Credits in jQuery
-==========
+=====================
 Suprisingly Great!
+
 
 Movie end credits for your website!
 
